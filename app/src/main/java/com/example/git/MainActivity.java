@@ -12,3 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }//начало изменений
 }// hjksfjkhsfhksf
+// ещё одна ветка дуржу в курсе
